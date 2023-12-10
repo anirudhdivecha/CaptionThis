@@ -22,12 +22,12 @@ CaptionThis is a deep learning project aimed at generating descriptive captions 
 The CaptionThis team consists of 6 Cal Poly students. The team members are 
 listed below:
 
-- [Kelly Becker]
-- [Anirudh Divecha]
-- [Luis D. Garcia]
-- [Jeremy Kozlowski]
-- [Keila Mohan]
-- [Nikhil Nagarajan]
+- Kelly Becker
+- Anirudh Divecha
+- Luis D. Garcia
+- Jeremy Kozlowski
+- Keila Mohan
+- Nikhil Nagarajan
 
 ## Documents and Artifacts
 1. [Project Proposal](https://docs.google.com/document/d/1zY6C1oZQD-xH8PxsW7HxgOw04BbP47yM9s87nwDO5K8/edit?usp=drive_link)
